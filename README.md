@@ -1,10 +1,15 @@
-# C Language and Systems Programming
+# Systems Programming
 
-Topics Covered:
+Foundation repository for:
+- C programming
+- Data structures
+- Memory management
+- Embedded systems
+- Systems-level development
+
+## Topics
 - Pointers
-- Multi-file Programming
-- Data Structures
-- Mini Projects
-
-Goal:
-Building strong foundations for embedded systems and systems programming.
+- Linked Lists
+- Queues
+- Multi-file programming
+- Mini projects
