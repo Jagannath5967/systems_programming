@@ -1,0 +1,18 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# VS Code temp files
+.vscode/
+*tempCodeRunnerFile.c
+
+# Build directories
+build/
+bin/
+
+# Logs
+*.log
